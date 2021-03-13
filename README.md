@@ -1,3 +1,2 @@
 # hello
-descripcion hello
-cambios para pull
+OK LO BORRO Y EMPIEZO2
